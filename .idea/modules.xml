@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\saeed\Desktop\ncalc-master\ncalc.iml" filepath="C:\Users\saeed\Desktop\ncalc-master\ncalc.iml" />
       <module fileurl="file://$PROJECT_DIR$/ncalc-master.iml" filepath="$PROJECT_DIR$/ncalc-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/symja_android_library-release/symja_android_library-release.iml" filepath="$PROJECT_DIR$/symja_android_library-release/symja_android_library-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ncalc-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ncalc-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/symja_android_library-release/ncalc-master.symja_android_library-release.iml" filepath="$PROJECT_DIR$/.idea/modules/symja_android_library-release/ncalc-master.symja_android_library-release.iml" />
     </modules>
   </component>
 </project>

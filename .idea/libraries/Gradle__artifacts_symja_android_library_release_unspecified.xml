@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:symja_android_library-release:unspecified">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/symja_android_library-release.aar/56b8e43008d2e63febce653278b526ba/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/symja_android_library-release.aar/56b8e43008d2e63febce653278b526ba/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/symja_android_library-release.aar/56b8e43008d2e63febce653278b526ba/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
